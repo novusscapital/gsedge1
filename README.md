@@ -36,7 +36,7 @@ Exemplo:
 ---
 
 ## ▶️ Vídeo Demonstrativo
-[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)]((https://youtu.be/klh_VZ6_kas)O)
+[(https://youtu.be/klh_VZ6_kas)](https://youtu.be/klh_VZ6_kas)
 
 ---
 
