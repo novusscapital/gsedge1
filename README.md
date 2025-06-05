@@ -31,15 +31,12 @@ Exemplo:
 ## 🧪 Simulação do Projeto
 
 ### 👉 Wokwi:
-- Link direto: [Abrir no Wokwi](https://wokwi.com/projects/seu-projeto)
-
-### 👉 Tinkercad:
-- Link direto: [Abrir no Tinkercad](https://www.tinkercad.com/things/seu-projeto)
+- Link direto: [Abrir no Wokwi]([https://wokwi.com/projects/seu-projeto](https://wokwi.com/projects/432962548923110401))
 
 ---
 
 ## ▶️ Vídeo Demonstrativo
-[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)]([https://www.youtube.com/watch?v=ID_DO_VIDE](https://youtu.be/klh_VZ6_kas)O)
 
 ---
 
