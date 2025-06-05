@@ -1,1 +1,49 @@
-# gsedge1
+# Projeto: [gsedge1]
+
+## 📝 Descrição do Problema
+Descreva aqui de forma clara o que o projeto busca resolver.  
+Exemplo:  
+> Um sistema de irrigação automática para plantas com sensor de umidade e alerta visual.
+
+---
+
+## 💡 Visão Geral da Solução
+### 🛠 Componentes Utilizados:
+- Arduino Uno
+- Sensor de Umidade do Solo
+- LED
+- Buzzer
+- Resistor
+- Jumpers e Protoboard
+
+### 🖼 Ilustração da Solução:
+![Diagrama do Circuito](./diagrama.png) <!-- substitua pela imagem real -->
+
+---
+
+## 🔧 Instruções de Montagem e Funcionamento
+1. Conecte o sensor de umidade à porta A0.
+2. O LED será acionado quando o solo estiver seco.
+3. O buzzer irá tocar se o nível de umidade for muito baixo.
+
+---
+
+## 🧪 Simulação do Projeto
+
+### 👉 Wokwi:
+- Link direto: [Abrir no Wokwi](https://wokwi.com/projects/seu-projeto)
+
+### 👉 Tinkercad:
+- Link direto: [Abrir no Tinkercad](https://www.tinkercad.com/things/seu-projeto)
+
+---
+
+## ▶️ Vídeo Demonstrativo
+[![Assista ao vídeo](https://img.youtube.com/vi/ID_DO_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ID_DO_VIDEO)
+
+---
+
+## 📁 Arquivos do Projeto
+- `código.ino` – Código-fonte do Arduino
+- `diagrama.png` – Imagem do circuito
+- `README.md` – Documentação
