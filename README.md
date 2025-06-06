@@ -1,9 +1,7 @@
-# Projeto: [gsedge1]
+# Projeto: [RiverSafe]
 
 ## 📝 Descrição do Problema
-Descreva aqui de forma clara o que o projeto busca resolver.  
-Exemplo:  
-> Um sistema de irrigação automática para plantas com sensor de umidade e alerta visual.
+O projeto RiverSafe surge como uma resposta inovadora ao crescente desafio das enchentes urbanas. Por meio de um dispositivo acessível, de baixo custo e tecnologicamente avançado, a iniciativa visa ampliar a capacidade de monitoramento e resposta em áreas de risco. A proposta é oferecer um sistema preciso e de amplo alcance, capaz de antecipar cenários de inundação e apoiar ações de evacuação e preparação, contribuindo diretamente para a preservação de vidas e a redução de danos materiais.
 
 ---
 
@@ -17,7 +15,7 @@ Exemplo:
 - Jumpers e Protoboard
 
 ### 🖼 Ilustração da Solução:
-![Diagrama do Circuito](./diagrama.png) <!-- substitua pela imagem real -->
+![Diagrama do Circuito](./)
 
 ---
 
