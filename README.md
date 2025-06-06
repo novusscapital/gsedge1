@@ -29,7 +29,7 @@ O projeto RiverSafe surge como uma resposta inovadora ao crescente desafio das e
 ## 🧪 Simulação do Projeto
 
 ### 👉 Wokwi:
-- Link direto: [Abrir no Wokwi]((https://wokwi.com/projects/432962548923110401))
+- Link direto: ([(https://wokwi.com/projects/432962548923110401)](https://wokwi.com/projects/432962548923110401))
 
 ---
 
